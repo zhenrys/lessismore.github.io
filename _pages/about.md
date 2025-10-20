@@ -17,18 +17,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I'm Henry Zhang, a senior student majoring in **Data Science** at the **School of Statistics and Data Science**, Nankai University.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+During my undergraduate studies, I took a wide range of mathematic and statistics courses, which strengthened my analytical thinking and skills in mathematical modeling. Through these courses, I also developed a strong motivation to learn independently, which has greatly benefited my later research and technical exploration.
+
+My current academic interests lie in **Computer Vision**, especially **Vision-Language Models (VLMs)**. I am actively exploring cutting-edge methods in this area to deepen my understanding of multimodal intelligence.
+
+Beyond academics, I’m a **tech enthusiast** who enjoys keeping up with the latest digital innovations and gadgets. I’m also a **big fan of movies** and British/American TV shows — my all-time favorites include Game of Thrones, The Lord of the Rings, Sherlock, and Star Wars.
+
+If you share similar interests or would like to discuss research ideas, feel free to reach out via email: zhanghenryNKU@163.com
+
+
+<!--  I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2025.09*: &nbsp; Admitted to the Media Computing Lab, College of Computer Science, Nankai University for graduate study.
 
-# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+<!-- # 📝 Publications  -->
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -40,19 +51,50 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.09 (Admitted)* &nbsp;&nbsp; 🎓 **M.Eng. in Computer Science**, *School of Computer Science, Nankai University*  
+  Admitted through recommendation (推免). Research interests focus on vision-language models and multimodal understanding.  
 
-# 💬 Invited Talks
+- *2022.09 – Present* &nbsp;&nbsp; 🎓 **B.S. in Data Science**, *School of Statistics and Data Science, Nankai University*  
+  Core coursework includes *Mathematical Analysis*, *Probability Theory*, *Mathematical Statistics*, *Regression Analysis*, *Optimization*, *Stochastic Processes*, and *Machine Learning*.
+
+
+
+# 🎖 Honors and Awards
+
+#### Competitions
+- *2024.11* &nbsp;&nbsp; **National First Prize**, *China Undergraduate Mathematical Contest in Modeling (CUMCM)*  
+  Awarded to the top 0.3% of teams nationwide. 
+
+- *2024.08* &nbsp;&nbsp; **Bronze Prize**, *Nankai University Mathematical Modeling Competition*  
+  A university-level contest assessing teamwork and the application of mathematical models and programming techniques to solve practical problems. Awarded to the top 5% of teams.
+
+- *2023.12* &nbsp;&nbsp; **Third Prize (Tianjin Division)**, *The Chinese Mathematics Competitions for College Students (CMC)*
+
+---
+
+#### University Honors
+- *2024.08* &nbsp;&nbsp; **International Talent Development Scholarship**
+  A scholarship recognizing students achieving top results in national competitions combined with strong overall academic performance.
+  
+- *2024.09* &nbsp;&nbsp; **Academic Excellence Scholarship**  
+  Awarded to students ranking within the top students of their class based on academic performance and comprehensive evaluation.  
+
+- *2023.09* &nbsp;&nbsp; **Student Service Scholarship & Excellent Student Leader**  
+  Granted in recognition of outstanding contributions to student affairs and leadership within the department.  
+
+
+
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
