@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Henry Zhang, a senior student majoring in **Data Science** at the **School of Statistics and Data Science**, Nankai University.
+I'm Henry Zhang, a senior student majoring in **Data Science** at the **School of Statistics and Data Science**, **Nankai University**.
 
 During my undergraduate studies, I took a wide range of mathematic and statistics courses, which strengthened my analytical thinking and skills in mathematical modeling. Through these courses, I also developed a strong motivation to learn independently, which has greatly benefited my later research and technical exploration.
 
 My current academic interests lie in **Computer Vision**, especially **Vision-Language Models (VLMs)**. I am actively exploring cutting-edge methods in this area to deepen my understanding of multimodal intelligence.
 
-Beyond academics, I’m a **tech enthusiast** who enjoys keeping up with the latest digital innovations and gadgets. I’m also a **big fan of movies** and British/American TV shows — my all-time favorites include Game of Thrones, The Lord of the Rings, Sherlock, and Star Wars.
+Beyond academics, I’m a **tech enthusiast** who enjoys keeping up with the latest digital innovations and gadgets. I’m also a **big fan of movies** and British/American TV shows — my all-time favorites include Game of Thrones, The Lord of the Rings, Sherlock, and Star Wars. What's more, I'm a volleyball lover.
 
-If you share similar interests or would like to discuss research ideas, feel free to reach out via email: zhanghenryNKU@163.com
+If you share similar interests or would like to discuss research ideas, feel free to reach out via email: zhanghenryNKU@163.com.
 
 
 <!--  I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
