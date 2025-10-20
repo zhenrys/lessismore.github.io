@@ -24,7 +24,12 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
-          bundler-cache: true
+          bundler-cache: false
+
+      - name: Clean old bundler
+        run: |
+          gem uninstall bundler -aIx || true
+          gem install bundler -v 2.5.10
 
       - name: Install dependencies
         run: bundle install
@@ -47,4 +52,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
