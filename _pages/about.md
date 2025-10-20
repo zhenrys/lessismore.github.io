@@ -17,15 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Henry Zhang, a senior student majoring in **Data Science** at the **School of Statistics and Data Science**, **Nankai University**.
 
-During my undergraduate studies, I took a wide range of mathematic and statistics courses, which strengthened my analytical thinking and skills in mathematical modeling. Through these courses, I also developed a strong motivation to learn independently, which has greatly benefited my later research and technical exploration.
+I'm **Henry Zhang**, a senior student majoring in **Data Science** at the **School of Statistics and Data Science**, **Nankai University**.
 
-My current academic interests lie in **Computer Vision**, especially **Vision-Language Models (VLMs)**. I am actively exploring cutting-edge methods in this area to deepen my understanding of multimodal intelligence.
+During my undergraduate studies, I took a broad range of mathematics and statistics courses, which strengthened my analytical thinking and honed my skills in mathematical modeling. These experiences also nurtured my ability for independent learning and sparked my passion for practical algorithms in computer science.
 
-Beyond academics, I’m a **tech enthusiast** who enjoys keeping up with the latest digital innovations and gadgets. I’m also a **big fan of movies** and British/American TV shows — my all-time favorites include Game of Thrones, The Lord of the Rings, Sherlock, and Star Wars. What's more, I'm a volleyball lover.
+My current academic interests center on **Computer Vision**, particularly **Vision–Language Models (VLMs)**. I am actively exploring cutting-edge approaches in this area to deepen my understanding of multimodal intelligence.
 
-If you share similar interests or would like to discuss research ideas, feel free to reach out via email: zhanghenryNKU@163.com.
+Beyond academics, I’m a **tech enthusiast** who enjoys keeping up with the latest digital innovations and gadgets. I’m also a **movie and TV series lover** — my all-time favorites include *Game of Thrones*, *The Lord of the Rings*, *Sherlock*, and *Star Wars*. In addition, I’m an avid **volleyball lover**.
+
+If you share similar interests or would like to discuss research ideas, feel free to reach out to me at **[zhanghenryNKU@163.com](mailto:zhanghenryNKU@163.com)**.
+
 
 
 <!--  I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -33,7 +35,7 @@ If you share similar interests or would like to discuss research ideas, feel fre
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2025.09*: &nbsp; Admitted to the Media Computing Lab, College of Computer Science, Nankai University for graduate study.
+- *2025.09*: &nbsp; Admitted to the Media Computing Lab, College of Computer Science, Nankai University for graduate studystudy.
 
 
 
@@ -81,12 +83,15 @@ If you share similar interests or would like to discuss research ideas, feel fre
 
 #### University Honors
 - *2024.08* &nbsp;&nbsp; **International Talent Development Scholarship**
+  
   A scholarship recognizing students achieving top results in national competitions combined with strong overall academic performance.
   
 - *2024.09* &nbsp;&nbsp; **Academic Excellence Scholarship**  
-  Awarded to students ranking within the top students of their class based on academic performance and comprehensive evaluation.  
+  
+  Awarded to students ranking within the top 10% students of the grade based on academic performance mainly and comprehensive evaluation.  
 
 - *2023.09* &nbsp;&nbsp; **Student Service Scholarship & Excellent Student Leader**  
+  
   Granted in recognition of outstanding contributions to student affairs and leadership within the department.  
 
 
