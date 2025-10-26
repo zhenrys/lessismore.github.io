@@ -33,11 +33,13 @@ bundle exec jekyll serve
 
 # 4. Open in browser
 # Visit: http://localhost:4000
+```
 
 ---
 
-## 🚀 🚀 🚀 A helpful pipline example 🚀 🚀 🚀 
+## 🚀 🚀 🚀  A useful pipline example(for myself, you can design yours)
 ```bash
+# do some changes to the about.md, then
 cd ~/website/zhenrys.github.io
 
 # local test
