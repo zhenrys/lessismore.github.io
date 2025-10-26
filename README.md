@@ -52,3 +52,14 @@ git commit -m "commit change for xxx" # ⚠️remember to change
 git pull origin main --rebase
 git push origin main
 ```
+
+💡 Tips:
+	•	_pages/about.md is the main body of your homepage; edit this file for textual and layout changes.
+	•	_config.yml controls the sidebar and metadata; modify it for title, social links, and navigation.
+	•	images/ holds all visual resources; upload new pictures here and reference them with ![alt](images/xxx.png).
+	•	When pushing via SSH, ensure your SSH key is configured properly to avoid authentication issues.
+
+
+⭐ Acknowledgement
+This homepage is adapted from AcadHomepage and modified by Henry Zhang for improved responsiveness, layout customization, and personal branding.
+
