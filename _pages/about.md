@@ -20,7 +20,7 @@ redirect_from:
 
 I'm **Henry Zhang**, a senior student majoring in **Data Science** at the **School of Statistics and Data Science**, **Nankai University**.
 
-During my undergraduate studies, I took a broad range of mathematics and statistics courses, which strengthened my analytical thinking and honed my skills in mathematical modeling. These experiences also nurtured my ability for independent learning and sparked my passion for practical algorithms in computer science.
+During my undergraduate studies, I took a broad range of **mathematics and statistics courses**, which strengthened my analytical thinking and honed my skills in mathematical modeling. These experiences also nurtured my ability for **independent learning** and sparked my passion for practical algorithms in computer science.
 
 My current academic interests center on **Computer Vision**, particularly **Vision–Language Models (VLMs)**. I am actively exploring cutting-edge approaches in this area to deepen my understanding of multimodal intelligence.
 
@@ -82,7 +82,7 @@ If you share similar interests or would like to discuss research ideas, feel fre
 ---
 
 #### University Honors
-- *2024.08* &nbsp;&nbsp; **International Talent Development Scholarship**
+- *2024.12* &nbsp;&nbsp; **International Talent Development Scholarship**
   
   A scholarship recognizing students achieving top results in national competitions combined with strong overall academic performance.
   

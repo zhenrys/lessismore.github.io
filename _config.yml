@@ -23,7 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Henry Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "NKU senior, Data Science. Focus on Vision-Language Large Models. Tech enthusiast, volleyball lover, movie/TV fan."
+  bio              : "张恒瑞（Hengrui Zhang）"
+  # bio              : "NKU senior, Data Science. Focus on Vision-Language Large Models. Tech enthusiast, volleyball lover, movie/TV fan."
   location         : "Tianjin, China"
   employer         : "Nankai University"
   pubmed           : 
